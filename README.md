@@ -16,3 +16,11 @@ This project is suitable for PLC training, digital logic practice, and basic aut
 - PLC learning projects  
 - Digital logic and automation training  
 - LED pattern control systems
+
+
+## 🎬 System Demo
+![System Demo](ShL.gif)
+![System Demo](ShR.gif)
+
+## 💻 PLC Program (Structured Text)
+📁 [Open Main Program](plc-code/PLC_st.st)
