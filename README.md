@@ -23,4 +23,4 @@ This project is suitable for PLC training, digital logic practice, and basic aut
 ![System Demo](ShR.gif)
 
 ## 💻 PLC Program (Structured Text)
-📁 [Open Main Program](plc-code/PLC_st.st)
+📁 [Open Main Program](plc-code/main_program.st)
